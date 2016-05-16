@@ -1,0 +1,314 @@
+proj_creatorinfo
+Biography
+ICLOAK is the brainchild of the team at DigiThinkIT, a web IT firm based in Orlando, FL that has been building custom software solutions for companies for the past three years.
+Made up of a passionate team of developers, designers and content developers, DigiThinkIT has both the experience and the chops to deliver world-class tech products and solutions. Founded by CEO, Eric B. Delisle, and CTO, Felipe Orellana, DigiThinkIT continues to innovate and push the boundaries of technology for the betterment of humanity.
+Websites
+icloak.org
+facebook.com
+twitter.com
+Founded Bungajungle on Kickstarter.
+Bungajungle emerged from the desire for freedom from limitations. We design innovative products that will enhance your digital life.
+Websites
+bungajungle.com
+Biography
+I have been developing commercial software for over 30 years and Internet software for over 20 years. My internet streaming technologies have been installed on millions of computers world-wide. It came pre-installed on Dell, Micron and Gateway computers. I have done work for Microsoft, Intel, Citrix and the U.S. government to name a few.
+I have assembled a team of designers, programmers, security and encryption experts dedicated to creating a safe Internet environment for all.
+It‰Ûªs our mission as a company to provide a completely safe, secure and anonymous online experience.
+Websites
+webcloak.com
+facebook.com
+twitter.com
+Undisclosed LLC (formerly PRVCM) is a design and technology studio focused on privacy and surveillance projects. We are located at NEW INC in New York City.
+Adam is a designer and technologist whose work in privacy and countersurveillance includes anti-drone fashion and camouflage from face detection. He is a graduate of the Interactive Telecommunications Program at NYU and adjunct faculty at the School of Visual Arts Interaction Design program in NYC.
+Websites
+ahprojects.com
+offpocket.com
+twitter.com
+undisclosed.cc
+Biography
+Steve Kim, while traveling to N. Korea on a mission four years ago, he was inspired to create and develop a game-changing technology that will revolutionize privacy as we know it and save lives all over the world. When he returned home to the states, he raised capital and hired M.I.T.‰Ûªs brightest, as well as programmers from all over the world to produce Wemagin. Because of the critical nature of this technology, he was instantly funded by some of the top investors in Los Angeles and is already being approached by major corporations. Wemagin was originally inspired by a North Korean girl trapped in China.
+Websites
+wemagin.com
+Biography
+Jeffrey is the founder of AWIT Systems, Inc, He has 20 years experiences in distributed networking & system engineering. In his spare time, he loves baseball, biking, skiing, and cheering for his son's soccer games.
+Dark is the guru in AWIT team, with vast interests in wide technology spectrum from motorcycle racing to embedded systems. He also enjoys cooking, out of the need as a late night hacker.
+Jackie is indulged in computer gaming and anything he deems worthy of pursuing. He has authored mobile game app played by over 35 million users. Beside hacking on computer, His passion is in motorcycle riding.
+Scott is the master of system software development, with over 10 years experiences in both large enterprise and startups. He is an active contributor in open source projects, and helps organize large-scale conferences like FreedomHEC and OSDC..
+AWIT Systems, Inc. is a Silicon Valley based startup with strong backgrounds in distributed networking, embedded systems, peer-to-peer, mobile gaming, and online/web technologies. We think everyone should be able to communicate freely and securely, from everywhere at anytime, without the limitations imposed by any 3rd party service providers, including us. And JackPair is one of the products we build at AWIT to walk the talk. We hope you enjoy using JackPair as much as we have enjoyed creating it!
+To write to us privately, please send your email to: jeffrey.chang (at) awitsystems (dot) com. And here's the PGP public key:
+Key fingerprint = 8D82 2235 C699 21AF 53FE 7ECB 47E1 43C1 DB62 C999
+
+-----END PGP PUBLIC KEY BLOCK-----
+Websites
+jackpair.com
+Because we believe that technology is supposed to contribute and make our lives easier, but often it ends up complicating them. We, the founders of EID, are convinced that changing this reality is possible, that we can make technology work for us and not the other way around. We are a group of dreamers that we aim to give people a device that helps them live better.
+Websites
+endlessid.com
+Biography
+Todd Blatt is a mechanical engineer, artist, and professional maker. He has been 3d modeling since 1997 and loves 3D printers and laser cutters. He worked as a 3d designer at MakerBot for all of 2012. and now works at Tinkerine Studios, a 3D printer manufacturer in Vancouver, BC.
+Todd founded Custom 3D Stuff, an object creation consultancy. They offer consulting, 3D modeling, and design services as well as sell custom 3D printed objects, including movie props, jewelry, replicas, new products, and engineering prototypes. He especially likes to focus on 3d designs which are difficult to create with other methods aside from 3D printing. AutoCAD and MeshMixer are his software packages of choice.
+Todd is also a tournament Go and Foosball player, and loves shooting pool. He is a member of the 501st and Rebel legions, sporting Stormtrooper armor and an Ice Cream Maker Guy costume.
+Todd is based in Baltimore, MD. and a member of the Baltimore Node Hackerspace.
+Websites
+custom3dstuff.com
+ttbcad.com
+inceptiontops.com
+thingiverse.com
+shapeways.com
+techcrunch.com
+arstechnica.com
+boingboing.net
+o.canada.com
+twitter.com
+makerbot.com
+shapeways.com
+articles.baltimoresun.com
+501st.com
+rebellegion.com
+youtube.com
+toddblatt.blogspot.com
+profiles.google.com
+technical.ly
+baltimore.citybizlist.com
+Angee Inc. is a San Francisco-based startup founded by Tomas Turek. Our goal is to make home security smarter and more affordable, and expand the scope and utility of an inter-connected home or office. Angee Inc. is partnering with Dragon Innovations, a hardware startup consultant, on technical due diligence and serial production. Angee will be available starting in October 2016.
+Websites
+meetangee.com
+facebook.com
+Headquartered in Aliso Viejo, California, Arkami, Inc. recognized a familiar pain point in most digital users lives and manufactured a simple password management device. myIDkey is the first fingerprint, voice-search, secure Bluetooth / USB drive that displays passwords and ID on the go as well as works with all smart mobile devices and personal computers. Now passwords and account information is at the tip of your finger. - visit us at www.IDKEY.com
+Websites
+idkey.com
+sonavation.com
+twitter.com
+facebook.com
+Biography
+WigWag is a startup out of Austin, TX. The WigWag team has experience in embedded systems, automation + control, SaaS, and cloud infrastructure.
+Help us spread the word!!
+http://www.wigwag.com
+Stay up to speed with us on Twitter https://twitter.com/wigwagco
+Or for the techies https://twitter.com/wigwagdevblog
+Founder Ed Hemphill worked at startup LifeSize before founding WigWag.
+LinkedIn profile: http://www.linkedin.com/in/edhemphill
+and on Kickstarter: http://www.kickstarter.com/profile/929664048
+Websites
+wigwag.com
+facebook.com
+wigwag.com
+kickstarter.com
+wigwag.com
+PebbleBee is a hardware and software engineering lab making small gadgets that make daily life easier. Our specialty is in Bluetooth beacon technology, or smart devices.
+Pebblebee also created the Honey and the Dragon as seen here: https://www.kickstarter.com/projects/192833321/pebblebee-the-most-versatile-ios-android-bluetooth.
+Websites
+pebblebee.com
+We are a small San Diego startup with over 50 years combined experience in hardware and software design/development.
+Websites
+xyfindit.com
+facebook.com
+xyshareit.com
+Biography
+Andreas Gal, former CTO of Mozilla, founded Silk Labs in June of 2015 with Chris Jones and Michael Vines in order to focus on creating thoughtful experiences with connected devices by enabling them to understand, respond to, and adapt to our daily human needs. The company‰Ûªs first device, Sense, is a camera-based home product running Silk Labs‰Ûª own intelligent device platform, Silk. Sense learns your lifestyle patterns and responds to events that occur in your home while keeping your important information private via hardware encryption.
+Websites
+silklabs.com
+silklabs.com
+First launched as Pierce's means to fund his Business School education, TarDisk has since evolved into so much more! The hyper-successful Kickstarter campaign "TarDisk256" in 2015 lead into the development of "TarDisk Pear" which catapulted TarDisk into the national spotlight. TarDisk owes its success to a focus on strategic partnerships. All of this could only have been dreamed about before KickStarter!
+Websites
+TarDisk.com
+Biography
+CEO and Founder: Will Graylin has started five companies focused on mobile computing, security and payments since his graduate thesis on "Addressing the Complexity of Mobile Computing" at MIT in 2000. Prior to founding Loop, he was founder and CEO of ROAM Data, a leading mobile POS & mobile payment solutions provider, majority purchased by Ingenico. ROAM was first to deliver an encrypted audio jack reader for smartphones and became the #1 supplier worldwide with millions of units shipped. Prior to ROAM he started WAY Systems, the 1st pocket size mobile POS solutions provider, later purchased by VeriFone. ROAM and WAY has won numerous innovation awards in the payments industry and Will has been recognized as a Mover & Shaker in the industry, where he is regularly invited to speak about mobile payments, and sat on the Board of Advisors to the ETA in 2012. He is currently also serving on the board of ONvocal, Inc., a wearable smartphone interface device company, and Movylo, a Mobile Marketing Tools company. He earned two Masters degrees from MIT (MBA & MSEECSS) through the Leaders for Manufacturing program, after serving as a US Navy Nuclear Submarine Officer for nearly 6 years, the first naturalized China born immigrant to serve in this program. Will is leading corporate and product strategy.
+Chief Technologist and Founder: George Wallner is a payment industry pioneer and innovator. He has been in the payment industry for more than three decades, and was the founder and CEO of Hypercom. He launched the first modern mag stripe Point of Sale (POS) terminals and POS Network equipment that support the electronic payment industry today. Mr. Wallner took Hypercom from zero to IPO and become the #1 or #2 POS provider worldwide for many years before his retirement, and its later acquisition by VeriFone. Mr. Wallner was also an active board member and investor in Mr. Graylin‰Ûªs two previous mobile payments companies ROAM and WAY. Most recently he co-founded and invested in Loop with Mr. Graylin, where he invented the Magnetic Secure Transmission (MST) technology and has taken on his first operating role since Hypercom, to help make Loop a leader in mobile commerce. George is heading up technology innovation at Loop including MST development in peripherals and phones. Mr. Wallner has numerous inventions in the field of POS, payment networks, and radio communications and is also a leading expert in radio antenna design.
+Websites
+looppay.com
+facebook.com
+twitter.com
+linkedin.com
+We are a startup based out of Palo Alto, CA and we have been building Apps and products in the personal security space and employee security solutions for enterprise since 2011.
+Our team has expertise in building emergency alerting systems and mobile Apps in personal security space and we also have a set of hardware experts who joined us from the industry specifically for building Rico.
+We were also part of batch 3 at the Alchemist accelerator in silicon valley and startup village in India.
+Websites
+getmyrico.com
+facebook.com
+twitter.com
+Everykey was originally a school project in an entrepreneurship class at Case Western Reserve University in September, 2012. After receiving a rave response from our class and our professor, we started developing the product and founded Everykey LLC, a Cleveland, Ohio based company.
+Websites
+Everykey.com
+Biography
+We are XOLUTRONIC, a multidisciplinary and very talented crew specialized in electronic product design and development. We are young, passionate, bold and employ our creativity and technical expertise to develop great product experiences that solve real problems.
+Our team is formed by people with different backgrounds and skills such as Industrial Design, Electronic Circuit Design, Graphic Design, Programing and Marketing.
+We have over 9 years of experience delivering high quality design services for third parties. And since we enjoy what we do for others, we decided it was about time to give birth to products of our own.
+Websites
+facebook.com
+getpassfort.com
+twitter.com
+Biography
+For over three years, we've been working to revolutionize personal safety. We founded the company with the belief that wearable technology can save lives. We've taken the Wearsafe Tag and the Wearsafe app from an idea to a reality, and now we're on a mission to save ten million lives in ten years.
+We are very thankful to have the support of a fantastic team of investors and advisors who have done amazing things in their professional careers and personal lives. Their success and inspiration motivate us, and they are the people who believed in our vision and have given us the opportunity to do great things.
+We are growing an incredible team of professionals that come from a wide and complementary range of backgrounds. We have a tremendous amount of respect for one another and the skill sets that each one of us brings to the table. (We share a high level of concern for quality work while getting things done on time) We believe in the quality of our work and about doing the right things. We value enthusiasm and creativity as they often lead to unique and effective approaches to problem solving, and we are passionate about our mission.
+Our co-founders Phill Giancarlo and David Benoit began this adventure with a hunch and an idea.
+A hunch that perhaps a product could be made better, a service can be made more efficient, or a person‰Ûªs quality of life could be improved.
+An idea that people can be safer, more connected, less vulnerable, and feel empowered.
+We also believe that as mobile technology evolves, it can play an important role in making people (feel) safer ‰ÛÒ being easy to use without being intrusive.
+Easy means intuitive.
+Easy means adaptable.
+Easy means functional.
+These are the goals that we have set for ourselves as we develop our products and services.
+For PR requests, please contact Michelle B. at : michelle@wearsafe.com
+860.817.1418
+Websites
+wearsafe.com
+Biography
+In my misspent youth, I worked in financial services and then on top-secret military stuff. Getting away from that, I wrote a GPL implementation of WebObjects, ported the first mobile toolkit to OS X and presented it at WWDC, wrote some of the first successful apps for the Danger Hiptop, and won a Duke's Choice award at JavaOne from James Gosling for my work in mobile games. Since then, I've moved onto launching venture-backed companies like apptap and hotelme. I also write iOS software recreationally when I'm not raising an army of children.
+Websites
+linkedin.com
+wotonomy.sourceforge.net
+oracle.com
+apptap.com
+hotelme.com
+itunes.apple.com
+twitter.com
+itunes.apple.com
+Biography
+Mr. Kevin Shahbazi‰Ûªs management skills are based upon previous successful ventures.
+Shahbazi is an experienced industry executive, with over 27 years of proven leadership in business management and technology, achieving success through direct authority, collaboration, matrix relationships, team building and alliances. With a results-driven entrepreneurial spirit, he founded and co-founded several profitable, growing enterprises including Applied Technologies, Trust Digital, eView Technologies and Avocado Security. Successfully established strategic relationships with major organizations including IBM, UBS, Pepsi, Palm and Microsoft. Shahbazi is a frequent speaker at key industry events worldwide. He successfully recruited several nationally known executives as board members. Mr. Kevin Shahbazi facilitated in leading LogmeOnce‰Ûªs innovative and comprehensive platform, and established LogmeOnce as the first provider of cross-platform SSO, IdM, and Access Management with an enjoyable and user-friendly dashboard allowing easy and secure access to all users.
+Mr. Shahbazi co-founded Trust Digital in 2001, which was soon placed in Gartner‰Ûªs prestigious Magic Quadrant. While leading Trust Digital, Mr. Shahbazi swept away numerous prestigious national and international accolades. With advanced encryption technology and a comprehensive security platform, Trust Digital successfully raised $40M multiple rounds in venture capital funding, and subsequently was acquired by security industry leader, McAfee, in May of 2010.
+Humbled with his international experience, Mr. Kevin Shahbazi is trained in many cultures, living in different continents. For over three decades, Mr. Kevin Shahbazi has been active with various philanthropic programs and events at homeless shelters across the globe. He presently spearheads Avocado Security Foundation, which grants financial awards to top graduates of DCCK, a culinary job training and job placement program designed for homeless individuals.
+Websites
+LogmeOnce.com
+facebook.com
+twitter.com
+Biography
+Riots Instruments, Inc., based in Negaunee, Michigan, USA, and Riots Global Oy, based in Oulu, Finland, are sister startup companies creating and developing new IoT products for a smarter, more sustainable world. Riots has developed the Riots Platform‰ã¢, which forms an expandable network of plug-and-play, Arduino-compatible sensors and controllers for smart homes and businesses of the twenty-first century. The Platform consists of the Riots Mama‰ã¢ internet gateway and a variety of Riots Babies‰ã¢ network nodes (e.g., Riots Gyro‰ã¢, Riots Light‰ã¢, Riots Air‰ã¢).
+Finland is known as the birthplace of hardcore software like Linux, MySQL and IRC, entertaining software like Angry Birds and Clash of Clans, simplistic design by Marimekko or Fiskars and other eccentricities such as the sauna and ice hole swimming. While Negaunee is located in the Upper Peninsula of Michigan, which is known for its strong Finnish Heritage.
+Websites
+riots.fi
+myriots.com
+facebook.com
+twitter.com
+SmartWallit Inc. is founded in USA, and it focuses on Bluetooth, NFC, WIFI, especially Bluetooth 4.0. We already finished anti-loss device with Bluetooth 2.1 and it‰Ûªs APP only run on Android OS. Now, we started to develop smartwallit, which is based on Bluetooth 4.0. And its software could run on IOS. In the near future, we will make innovative device based on WIFI or NFC technology. So we only focus on smartphone wireless accessory and want to be leading manufacturer.
+Websites
+smartwallit.com
+Biography
+And the brand was - 'Quick'
+
+Our day and age seems to lend itself to more things being readily available, more locations, ‰ÛÏdon‰Ûªt‰Ûª wait,‰Û get it here - faster. The GunBox was Manufactured in 2013 by RPH Engineering. The Gunbox became known for providing handgun owners with safe storage and quick access. Soon after, SafeTech Products was born to reflect the growing ‰Û÷Quick‰Ûª brand. From the Gunbox providing safe storage & quick access to the Quicklock Family of Doorlocks and Padlocks further demonstrating our emphasis on providing today‰Ûªs technology on the SafeTech products in a quick fashion. Look for the ‰Û÷Quick‰Ûª logo on all our products.
+Websites
+SafeTechProducts.com
+TheQuicklock.com
+This is a family project. Dad (Bob Cringely) is a legendary Silicon Valley insider and VC on this project. Mom (Mary Alyce Cringely) is the family admin/goddess. Technical leadership, assembly, testing and shipping is done by Channing Cringely (13), Cole Cringely (11), and Fallon Cringely (9). Don't mess with Fallon.
+Websites
+cringely.com
+facebook.com
+mineserver.com
+I'm JP and I'm a security researcher who loves to tinker. I have a special interest in wireless and portable security projects.
+Websites
+theglitch.sf.net
+Software Engineer Graduate(Ecole Polytechnique De Montreal)
+20+ year experience in software development.
+10+ year experience in software security
+Keen eye for resolving and simplifying very complex software problems.
+Seasoned Computer Architect designing, developing and deploying highly available and scalable software solutions
+Websites
+zoxweb.com
+linkedin.com
+I am a father of 3, married 23 years (as of June 6th) - involved in my kid's sports as either a coach or sideline parent. I enjoy golf, exercising, spending time at the beach and on the water. I have been a CPA since 1986, and have been in the IT Training industry since 2001. Our team has a passion for the IT and Cyber Security training industry and we are very excited when our students succeed!
+Websites
+cybrary.it
+wiki.cybrary.it
+youtube.com
+twitter.com
+facebook.com
+Biography
+Dr. Edward W. Savarese is the founder of the Company and its Chief Executive Officer. He was also the founder of Com-Guard, Inc., in 1998 one of the first companies to recognize the importance of Computer Security and has been a director and Chairman of the Board of Directors since its inception. Dr. Savarese was also the founder and held the position of Chief Executive Officer of ImageTech Corporation (formerly Personal Computer Products, Inc.) from 1982 to 1998. From 1981 to 1982, Dr. Savarese was director of sales for SofTech Microsystems, where his responsibilities included establishing and supervising an international sales organization for marketing a microcomputer operating system. From 1978 to 1981, Dr. Savarese was employed by Hewlett Packard Company, first as a sales representative for computer products, and later as district sales manager supervising a sales force in the marketing of mini- and microcomputers. Dr. Savarese holds a Doctorate degree from Columbia University, Teacher‰Ûªs College, with specialization in educational technology and software and systems design. Dr. Savarese also holds a Master of Science in administration and management from Pace University.
+Rusty Wright is Executive Vice President and has been in the communications industry for over 25 years, providing leadership and vision during the introduction of many data communications services to the North American marketplace. Mr. Wright has been successful in a wide range of roles including Engineering, Operations, Marketing and Sales. Most recently, Mr. Wright was Sr. Vice President of Product Development for Nexaira. He held Sr. Management positions at MegaPath, Yipes and most notably, as Vice President of Data Sales for AT&T Canada (which merged with MetroNet). Previously, Mr. Wright spent 15 years at US West in Sales, Marketing and Engineering organizations. During his tenure, Mr. Wright contributed to the development and successful marketing of the Self Healing Network. Mr. Wright was part of InteCom‰Ûªs engineering and marketing teams, during the development the first integrated Voice Data PBX. He was part of Xerox‰Ûªs National Field Operation team supporting the original launch of the Ethernet data communications standard.
+Alan F. Miller is the Chief Technical Officer for the Company. Mr. Miller has over 20 years of engineering experience. Mr. Miller has held a variety of high technology engineering positions since 1980 for companies including Continental Controls Corporation, Data Electronics, Inc., ImageTech Corporation (formerly Personal Computer Products, Inc.), Internet Magic, Inc., Staff Training Solutions, CuniSoft and Firmware Technologies, Inc. Mr. Miller has worked on a variety of products and technologies, including: component level testing for national defense systems, analog and digital turbine controls, memory products, robotics, laser printers, facsimile machines, internet technologies, etc. Mr. Miller received his Bachelor of Science degree in computer science from National University in San Diego.
+Anthony (Tony) Barbara ‰ÛÒ is the Sr. Vice President of Distribution Sales ‰ÛÒ Mr. Barbara has over 25 year‰Ûªs direct/indirect sales management experience with proven ability to develop and expand sales/marketing organizations in consumer electronics and wireless markets. Mr. Barbara has successfully managed two start-up firms starting with Cardo Systems in 2003 as Vice President Sales & Marketing and launched the Scala brand of Bluetooth headsets and was President of TrueBlue Wireless where he built a stable reseller organization for wireless accessories in North America. While at Panasonic for over 10 years he was Director of Corporate System Sales Division where he represented all branded Panasonic products and built strategic selling relationships with Fortune 500 companies. He also received a BA from City College, NY in Business Administration and Computer Science. Mr. Barbara has worked for many of the premier Computer Companies, including Sperry Corp and IBM.
+Websites
+imagetechcorp.com
+Biography
+Obsidian Security Services has been providing Security Consulting since the late 90's. We specialize in providing boutique security consulting to our clients. Our areas of focus include Computer Security, Counter Surveillance, and Counter Forensic Solutions. We are also active Linux Developers with the Puppy Linux Project and the Fedora project, and active in the Arch Linux Community.
+JT Pennington is the founder of Obsidian Security Services, and has been working in the IT Security field since the mid 90s. As a serious Linux user since the mid 90s, his experience spans multiple releases and has seen how the Linux OS has grown and matured over the years.
+The Lead YaCyPi developer has gone by the handle Q5sys since his early days online. Q5sys has personally developed four distinct Puppy Linux releases, two of which are designed for the Raspberry Pi. Q5sys is an active developer in the Puppy Linux Community. Q5sys' first Puppy Linux release occured in 2010 with the 32bit AttackPup. AttackPup [ http://attackpup.org ] was the first Puppy Linux Pen-Testing focused release. Following that Q5sys became an active support developer in the Puppy Linux version titled Lighthouse Pup [ http://lhpup.org ], and continues to be an assistant developer for that release. 2013 has seen Q5sys' most active year with three new releases this year. Slackbones [ http://slackbones.org ] which is a minimal 64bit Puppy Linux release came at the beginning of 2013. The latest two Puppy Linux Releases Q5sys has developed are both designed for the Raspberry Pi.
+Raspberry Pi Random Pup [ http://rprp.org/ ] is a single use release which enables a user to turn their Raspberry Pi into a Network Hardware Random Number Generator, enabling all machines on a network a source of true randomness. Cloudpup [ http://murga-linux.com/puppy/viewtopic.php‰Û_ ] is a release for the Raspberry Pi which allows a user to run a headless local instance of OwnCloud on their private network.
+The team is rounded out by Austin Fox who has been a longtime advocate of both Open Source Software and Hardware. Austin has worked extensively with Raspberry Pi's and other minimal micro computers like the Beagle Bone Black, the Cubieboard, and the Gooseberry.
+With the revelations from the Summer of Snowden, we have been acutely interested in finding ways to restore privacy online. We hope this project will help in that goal.
+Websites
+obs-sec.com
+attackpup.org
+slackbones.org
+rprp.org
+Biography
+LinkedMD‰ã¢ employs a team of innovative healthcare technology leaders with a passion for improving patient care through patient medical record accessibility. We have been working collaboratively to create a user-friendly approach for patient-engagement technology.
+Each member of our team brings special experience to LinkedMD‰ã¢.
+Ralph has over thirty years of Information Technology experience. He has served as an executive, architect, manager, and consultant to companies in many different industries. His accomplishments consist of designing and building software applications for the healthcare industry, inventory and supply chain management, and commercial e-commerce websites, as well as technical company due diligence and Functional and Technical specification document creation.
+Laura is a HITECH-Certified Practice Workflow and Information Management Redesign Specialist with ten years of experience in health information technology. She holds a leadership position as Chief Operating Officer for Resource Providers, Inc. (RPI), which is a reputable medical transcription firm located inTampa. Her research interests include the promotion of nationwide health information exchange; advances in health information technology; health information technology standards and interoperability; privacy and security policies; HIPAA; Meaningful Use; and Healthcare Application and Network Design.
+Holly is the founder with a great vision. Playing college volleyball taught Holly one thing: persistence pays. Talent was what got you a scholarship, but hard work and passion was what got you in the starting lineup.
+And it‰Ûªs that attitude that has made Holly such a force throughout her 20-year career. Prior to founding LinkedMD‰ã¢ in 2014, Holly has worked in public relations for innumerable national and international brands in nearly every category. At Atlanta-based Hope Beckham, she was named a VP/Group Director on accounts such as Coca-Cola, Home Depot, the LPGA, the Atlanta Convention & Visitors Bureau, Church‰Ûªs Fried Chicken, Russell Athletic and the Southern Company, to name a few.
+Websites
+mylinkedmd.com
+rpiusa.com
+thisispress.com
+Biography
+Andy & Rich are a team of two brothers. Andy, the elder one, is currently working as a software engineer at a big Internet company in Mountain View, California. Rich used to work as a computer engineer, but is now working as project manager for a multi-national company in China. They share the same passion for gadgets and electronics. We successfully launched and delivered our first kickstarter project, Mini MicroSD Card Reader for Android, back in 2013, and the updated version, Dash Micro G3 (Type-C & Reversible MicroUSB).
+Websites
+meenova.com
+Biography
+I live in Arlington, VA and run most of my fun-time distributed computing projects on a Hadoop cluster in my (small) apartment, much to the dismay of my girlfriend, our electric bill, and our little Dachshund puppy who has no idea why I'm awake at 3 AM surrounded by computers and granola bar wrappers.
+When not doing my fun-time stuff, I'm a Computer Network Operations Engineer at Lunarline, Inc., an Information Security company. My team specifically builds security and network attack tools for use by the Department of Defense and Federal government.
+At my other, "I should be sleeping right now," job, I'm the founder and CEO/CTO/HR/Everything of Hyperion Gray, LLC - my own little development company specifically focused on open source projects and distributed computing as it relates to hacking and penetration testing. I have a huge interest in open source projects and giving back to the open source community, because the open source community is where I learned pretty much everything I know about development. Well, plus some heavy books and this guy I know named Mark. Good guy.
+Websites
+hyperiongray.com
+linkedin.com
+Developer of Goto Browser. Gotek Software is an app development company inspired to creating new cutting edge technology, that not only makes us innovate, but makes our users innovate with us. Download Goto Browser @ http://www.gotobrowser.com #spreadtheweb
+Websites
+gotobrowser.com
+Engineer and inventor with 9 published patents. I'm in a mission to bring technology products to consumers.
+Websites
+recapmycalls.com
+hellomico.com
+First launched as Pierce's means to fund his Business School education, TarDisk has since evolved into so much more! The hyper-successful Kickstarter campaign "TarDisk256" in 2015 lead into the development of "TarDisk Pear" which catapulted TarDisk into the national spotlight. TarDisk owes its success to a focus on strategic partnerships. All of this could only have been dreamed about before KickStarter!
+Websites
+TarDisk.com
+Biography
+Carey J. Flack is a University of Oklahoma Entrepreneurship junior. She is also a newbie Investor, with stocks ranging from tech to oil and gas. Outside of her personal endeavors, Carey is also a member of the Collegiate Entrepreneur Organization's (CEO) club, and a chosen member of "Dinner with a Dozen" - an exclusive program that connects ambitious students with successful OU alumni. Carey began her career in entrepreneurship at the age of 18 when she established her very own photography business, she has since evolved into an aspiring tech entrepreneur with experience pitching at CCEW events such as Start-up Weekend OU. Her idea with Roomswap began after returning from an internship with ELLE Magazine (New York, NY) and realizing that there were few housing resources geared only for students.
+Biography
+3DKitbash was founded by Quincy Robinson and Natalie Mathis.
+Quincy's a toy industry pro with a decade of experience in toy invention, prototype building, and 3D model sculpting. He's worked on well-known brands like Batman, Hot Wheels, Star Wars, Disney, Barbie, Monster High, and Polly Pocket. If you've been in a toy aisle in the past ten years, you've likely seen something he's had a hand in creating.
+Natalie specializes in development for art-related business. She's spent much of the past decade in toy invention and digital sculpting studios, traveling to toy conventions, and visiting toy aisles nationwide. She just finished work as Director of Advancement (development, fundraising, and marketing) for a fine art museum with a world-class collection in Cincinnati, Ohio.
+Websites
+instagram.com
+3DKitbash.com
+twitter.com
+flickr.com
+facebook.com
+3DKToys.com
+I'm a lover of all things technology. I'm employed as a web developer, a research assistant, an embedded systems developer, and an iOS developer.
+Websites
+piperwallet.com
+bitspot.me
+cards4bits.com
+Biography
+The founders of Max & Duane Galactic Enterprises are Clive ‰ÛÏMax‰Û Maxfield and Duane Benson. In addition to authoring well-known books on electronics and computing, Max is a renowned EETimes editor specializing in Microcontrollers, Circuit Boards, Programmable Logic, and Prototyping. Duane is the marketing manager and blog author at Screaming Circuits, which specializes in assembling prototype and short-run circuit boards. In their spare time, Max and Duane design and construct all sorts of electronic and computing ‰ÛÏstuff,‰Û from brainwave amplifiers to telepresence robot avatars (be afraid, be very afraid).
+Websites
+mdgalactic.com
+facebook.com
+twitter.com
+I have a masters degree in Electrical Engineering from Purdue University and over 23 years experience writing software for multiple telecommunications companies.
+Websites
+firewallsdontstopdragons.com
+Biography
+As a Dive Shop Manager by day and a Programmer and Developer at night; I've seen friends and co-workers get "hacked", or their credit cards stolen or emails and passwords compromised while online. So I decided to to do something.
+So I research, tested and consulted with some of the world‰Ûªs best programmers and we decided that something had to be done to protect your privacy. Each one of them brought to the table their own unique browser(s) & software, that gives you a variety of options for controlling your Privacy or the amount of information you want to be "Public" while online.
+The browsers in the Armory give you the ability to Stay Private and Secure while online, by hiding your IP address, with a secure VPN, to full proxy controls, to erasing what websites you visit & online Browsing habits, or having the software automatically cloaked everything about you.
+Defend your Privacy!
+"Suit Up" with Web Armory 2.0 portable Software!
+Websites
+WebArmory.org
+fwhendriks.com
+I am a student at Union University working on my Senior Seminar project. This project must incorporate many of the things I have learned over the last 3.5 years here at school as a Digital Media Studies Major.
+Websites
+rfidadventure.wordpress.com
+David - David has built dozens of websites for different subjects and purposes and has recently been working with cyber security.
+Jimmy - Jimmy has gone through and extensive Computer Science program that specializes in security.
+For fun the brothers like to hangout with friends, program, and game.
+Websites
+lckin.com
+Websites
+antjanus.com
